@@ -1,0 +1,1 @@
+# Integration async approach example
